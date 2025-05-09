@@ -1,0 +1,6 @@
+Стоимость: 50
+Описание: Оказывается, от перестановки многое меняется
+https://drive.google.com/file/d/1zRsUryyqiZfLNj62QyhdHGeGbNFR5LPD/view?usp=drive_link
+Формат: Ответ
+Ответ: NOISELESS
+Решение: Нужно провести криптоанализ шифра простой замены, используя Mono-alphabetic Substitution дешифратор.
