@@ -1,0 +1,7 @@
+Стоимость: 50
+Описание: Дано фото. Найдите флаг.
+Флаг.jpg
+https://drive.google.com/file/d/1bTYiw7a-_O1ZIgZjL-OXoWPb1WMthjDq/view?usp=drive_link
+Формат: Ответ
+Ответ: abcdefg_won
+Решение: exiftool, Description
